@@ -1,0 +1,6 @@
+id=miclip_keep
+name=MiClip Keep
+version=v3.0
+versionCode=3
+author=fc472
+description=Keeps screenshot-to-clipboard enabled (mi_screen_shots_write_clipboard_enable=1) on HyperOS 3 or older CN ROM
